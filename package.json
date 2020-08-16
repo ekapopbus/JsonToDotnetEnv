@@ -1,10 +1,11 @@
 {
 	"name": "jsontodotnetenv",
 	"publisher": "ekapop",
-	"repository": "",
+	"repository": "https://github.com/ekapopbus/JsonToDotnetEnv.git",
 	"displayName": "JsonToDotnetEnv",
-	"description": "transform json to environment variable",
-	"version": "0.0.1",
+	"description": "transform json to dotnet environment variable or k8s configMap",
+	"version": "1.0.4",
+	"icon": "images/icon.png",
 	"engines": {
 		"vscode": "^1.43.0"
 	},
